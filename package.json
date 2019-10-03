@@ -1,0 +1,22 @@
+{
+  "name": "ng-github-repo",
+  "version": "1.0.0",
+  "description": "angular fetch repositories from github host",
+  "main": "src/ng-github-repo.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "angular",
+    "github",
+    "repo",
+    "npm",
+    "angular",
+    "repo"
+  ],
+  "author": "sutin1234",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.0"
+  }
+}
