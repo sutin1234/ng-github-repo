@@ -23,6 +23,6 @@
   "license": "ISC",
   "homepage": "https://github.com/sutin1234/ng-github-repo.git/master/README.md", 
   "devDependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
